@@ -9,6 +9,7 @@ public class mainClass {
 		
 		System.out.println("inspur");
 		// TODO Auto-generated method stub
+		System.out.println("inspur1");
 
 	}
 
