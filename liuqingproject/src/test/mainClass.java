@@ -11,6 +11,7 @@ public class mainClass {
 		System.out.println("inspur");
 		int m; 
 		int n;
+		System.out.println("浪潮");
 
 	}
 
